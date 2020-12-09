@@ -15,6 +15,6 @@ Encrypted voice communication without blockade and without restrictions on accou
 
 * This project is aimed at a large number of investment institutions and developers in the initial stage, White Paper 1.0, and we do not tolerate plagiarism of the project. 
 
-* Work together to make the community better. If you have any ideas, you can join vocal or contact @vocalodat, to move forward. 
+* Work together to make the community better. If you have any ideas, you can join vocal or contact @vocaloidat, to move forward. 
 
 😀♥
