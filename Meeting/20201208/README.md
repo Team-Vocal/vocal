@@ -8,15 +8,11 @@ The attendees of this meeting @[vocaloidat](https://github.com/orgs/Team-Vocal/p
 
 ### Meeting discussion：
 
-1. vocal project white paper writing and content brief development direction. 
-   The name of the 
-
+1. vocal project white paper writing and content brief development direction. The name of the.
 2. vocal project. 
-
-3. 
-The team github organization name is convenient for subsequent management. 
+3. The team github organization name is convenient for subsequent management. 
 4. 
-Translation and promotion of the project.
+  Translation and promotion of the project.
 
 ---
 
@@ -35,8 +31,7 @@ Translation and promotion of the project.
 >
 >
 >1. The choice of network domain name service provider. 
->   two。. 
->
+>     
 >2. Network domain name service provider selection. 
 >
 >3. Network anonymity security words to consider. 
